@@ -1,0 +1,124 @@
+{
+    "postDetail":[
+        {
+            "Name":"Raj Shekar",
+            "PicturePost":"https://mdbootstrap.com/img/Photos/Avatars/img%20(3).jpg",
+            "DatePost":"3/7/18",
+            "TimePost":"3:17pm",
+            "content":"Lorem ipsum dolor sconsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "LikeCount":"200",
+            "CommentCount":"30",
+            "ShareCount":"5",
+            "CommentList":[
+                {
+                    "name":"Akshay Singh",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg",
+                    "commentDetail":"good very good",
+                    "commentTime":"3d"
+                },
+                {
+                    "name":"Abhinav Ram",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg",
+                    "commentDetail":"i like it!!!!",
+                    "commentTime":"2d"
+                },
+                {
+                    "name":"khush Goyal",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(4).jpg",
+                    "commentDetail":"HAHAHAHAH!!!",
+                    "commentTime":"1d"
+                }
+            ]
+        }, {
+            "Name":"Vishnu Panwar",
+            "PicturePost":"https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg",
+            "DatePost":"3/7/18",
+            "TimePost":"3:17pm",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "LikeCount":"20",
+            "CommentCount":"3",
+            "ShareCount":"1",
+            "CommentList":[
+                {
+                    "name":"khush Goyal",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(4).jpg",
+                    "commentDetail":"HAHAHAHAH!!!",
+                    "commentTime":"2d"
+                },
+                {
+                    "name":"Akshay Singh",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg",
+                    "commentDetail":"good very good",
+                    "commentTime":"1d"
+                },
+                {
+                    "name":"Abhinav Ram",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg",
+                    "commentDetail":"i like it!!!!",
+                    "commentTime":"2d"
+                }
+               
+            ]
+        }, {
+            "Name":"Vikhram Thakur",
+            "PicturePost":"https://mdbootstrap.com/img/Photos/Avatars/img%20(6).jpg",
+            "DatePost":"3/7/18",
+            "TimePost":"3:17pm",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed  esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumconsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "LikeCount":"190",
+            "CommentCount":"50",
+            "ShareCount":"9 ",
+            "CommentList":[
+                {
+                    "name":"Akshay Singh",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg",
+                    "commentDetail":"good very good",
+                    "commentTime":"1d"
+                },
+                {
+                    "name":"Abhinav Ram",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg",
+                    "commentDetail":"i like it!!!!",
+                    "commentTime":"2d"
+                },
+                {
+                    "name":"khush Goyal",
+                    "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(4).jpg",
+                    "commentDetail":"HAHAHAHAH!!!",
+                    "commentTime":"2d"
+                }
+            ]
+        },
+    {
+        "Name":"Akshay Singh",
+        "PicturePost":"https://mdbootstrap.com/img/Photos/Avatars/img%20(7).jpg",
+        "DatePost":"3/7/18",
+        "TimePost":"3:17pm",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumconsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "LikeCount":"10",
+        "CommentCount":"3",
+        "ShareCount":"1",
+        "CommentList":[
+            {
+                "name":"Raj Kumar",
+                "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg",
+                "commentDetail":"good very good",
+                "commentTime":"2d"
+            },
+            {
+                "name":"Abhinav Ram",
+                "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg",
+                "commentDetail":"i like it!!!!",
+                "commentTime":"2d"
+            },
+            {
+                "name":"khush Goyal",
+                "Picture":"https://mdbootstrap.com/img/Photos/Avatars/img%20(4).jpg",
+                "commentDetail":"HAHAHAHAH!!!",
+                "commentTime":"1d"
+            }
+        ]
+
+    }
+]
+}
